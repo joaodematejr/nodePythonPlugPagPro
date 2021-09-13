@@ -18,10 +18,7 @@
   },
   "homepage": "https://github.com/joaodematejr/nodePlugPagPro#readme",
   "dependencies": {
-    "ffi-napi": "^4.0.3",
-    "ref-array-napi": "^1.2.2",
-    "ref-napi": "^3.0.3",
-    "ref-struct-di": "^1.1.1"
+    "python-shell": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
